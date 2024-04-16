@@ -1,3 +1,4 @@
+#In this project we use Jenkins
 import qrcode
 import base64
 from flask import Flask
