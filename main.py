@@ -1,4 +1,4 @@
-#In this project we use Jenkins CD
+#In this project I use Jenkins CD
 import qrcode
 import base64
 from flask import Flask
